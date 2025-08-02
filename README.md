@@ -25,8 +25,7 @@
 | Frontend    | [React.js](https://react.dev/), [Vite](https://vitejs.dev/) |
 | UI/UX       | [Tailwind CSS](https://tailwindcss.com/), [Shadcn UI](https://ui.shadcn.com/) |
 | Auth        | [Clerk](https://clerk.dev/)                      |
-| Backend/DB  | [Supabase](https://supabase.com/) (PostgreSQL + Auth + Storage) |
-| Hosting     | Vercel / Netlify *(if applicable)*              |
+| Backend/DB  | [Supabase](https://supabase.com/)|             |
 
 ---
 ---
