@@ -36,7 +36,7 @@
 Here are some preview screens of **HireHub** in action:
 
 ### 🔍 Home Page
-![Home Page](./screenshots/homepage.png)
+![Home Page](./screenshots/Home01.png)
 
 ### 💼 Job Listings
 ![Job Listings](./screenshots/job-listings.png)
