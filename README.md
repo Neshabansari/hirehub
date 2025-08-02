@@ -31,21 +31,6 @@
 ---
 ---
 
-## 📸 Screenshots
-
-Here are some preview screens of **HireHub** in action:
-
-### 🔍 Home Page
-![Home Page](./screenshots/Home01.png)
-
-### 💼 Job Listings
-![Job Listings](./screenshots/job-listings.png)
-
-### 📝 Job Detail & Apply
-![Job Detail](./screenshots/job-detail.png)
-
-### 👨‍💼 Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 
 
